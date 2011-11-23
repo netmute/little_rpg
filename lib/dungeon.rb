@@ -1,5 +1,4 @@
 class Dungeon
-  include Helper
   attr_accessor :name, :alignment
 
   def initialize(name = 'dungeon')

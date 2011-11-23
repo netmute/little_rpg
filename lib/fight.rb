@@ -1,5 +1,4 @@
 class Fight
-  include Helper
   attr_accessor :player, :enemy, :player_fled, :initiative
 
   def initialize(player, enemy, initiative = nil)

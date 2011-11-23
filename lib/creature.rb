@@ -1,5 +1,4 @@
 class Creature
-  include Helper
   attr_accessor :name,
                 :strength, :intelligence, :level,
                 :current_health, :max_health,

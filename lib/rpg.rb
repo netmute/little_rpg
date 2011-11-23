@@ -1,5 +1,4 @@
 class RPG
-  include Helper
   attr_accessor :player, :dungeon
 
   def initialize

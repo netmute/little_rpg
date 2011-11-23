@@ -7,4 +7,6 @@ lib_path = File.dirname(Pathname.new(__FILE__).realpath) + '/'
   Dir[lib_path + load_path + '/*.rb'].each { |file| require file }
 end
 
+include Helper
+
 RPG.new.start

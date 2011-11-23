@@ -10,7 +10,7 @@ This is the starting point. Here classes get loaded and the main RPG object is i
 
 ### Dungeons
 
-Used to layout the 'story' of the game. Can be used to describe places and stuff that happens. This is were fights get started.
+Used to layout the 'story' of the game. Can be used to describe places and stuff that happens. This is where fights get started.
 
 ### Creatures
 
